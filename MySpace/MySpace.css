@@ -1,0 +1,116 @@
+html {
+	width: 1000px;
+}
+header {
+	background-color: #1E3196;
+	width: 1000px;
+	height: 30px;
+}
+.LeftLinks {
+	width: 150px;
+	margin-top: 5px;
+	margin-left: 5px;
+	font-weight: normal;
+	color: white;	
+}
+.RightLinks {
+	
+	width: 410px;
+	margin-left: 425px;
+	margin-top: 5px;
+}
+.LeftLinks, .RightLinks {
+	vertical-align: top;
+	display: inline-block;
+}
+#Logo {
+	background-color: #1E3196;
+	width: 1000px;
+	height: 90px;
+}
+#Logo img {
+	height: 50px;
+	margin-left: 370px;
+}
+#MainContent {
+	width: 1000px;
+	height:800px;
+}
+.CoolNewPpl { 
+	width: 65%;
+	height: 25%;
+	margin: 10px;
+	border-style: solid;
+	border-color: #FACC9D; 
+}
+#title {
+	
+	background-color: #FACC9D;
+	height: 30px;
+}
+#title2 {
+	background-color: #BACCF9;
+	height: 30px;
+}
+.CoolNewPpl img {
+	width: 100px;
+}
+.ivan, .princess {
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 130px;
+	text-align: center;
+}
+.MemberLogin {
+	border-style: solid;
+	border-color: #1E3196;
+	width: 27%;
+	height: 25%;
+	margin-left: 35px;
+	text-align: center;
+	margin-top: 10Px;
+}
+#Member {
+	font-style: bold;
+	font-weight: 900;
+	color: #1E3196;
+	text-align: center;
+}
+
+.CoolNewPpl, .MemberLogin {
+	display: inline-block;
+	vertical-align: top;
+} 
+.MySpaceMemberBlogs {
+
+	width: 65%;
+	height: 30%;
+	margin: 20px;
+}
+table {
+
+	text-align: left;
+	height: 70%;
+
+}
+.Boxes {
+	width: 95%;
+	height: 20%;
+	margin-left: 20px;
+	
+}
+.Box1, .Box2, .Box3, .Box4 {
+	vertical-align: top;
+	display: inline-block;
+	background-color: #BACCF9;
+	width: 228px;
+	height: 200px;
+	border-style: solid;
+	border-color: blue;
+}	
+footer {
+
+	width: 1000px;
+	height: 100px;
+	text-align: center;
+}
